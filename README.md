@@ -46,6 +46,6 @@ For more details about the project, visit the [GitHub repository](https://github
 
 ## Contact 💬
 
-Project developed by [Karthik K](https://t.me/SchadenfreudeKK) - [@EurydiceReverie](https://t.me/SchadenfreudeKK)
+Project developed by (Karthik K) - [@EurydiceReverie][contact via telegram](https://t.me/SchadenfreudeKK)
 
 > Inspired by Eurydice
