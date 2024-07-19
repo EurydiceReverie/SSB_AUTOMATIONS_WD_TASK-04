@@ -18,7 +18,7 @@ This repository contains a webpage that provides an overview of different audio 
 - **Pulsating Sound Wave:** Animation applied to the element to simulate a pulsating sound wave (typo: Shock wave).
 - **Bubble Container:** Animation applied to the bubble container that spawns bubbles every 1000ms, making them float upwards and fade out.
 
-## About Project
+## About Project Web Page
 
 ### Overview
 
