@@ -44,6 +44,10 @@ The project page for Eurydice Discern is designed to provide a comprehensive vie
 
 For more details about the project, visit the [GitHub repository](https://github.com/EurydiceReverie/EurydiceDiscern).
 
+## Testing🚀
+
+![Proj & Post](https://raw.githubusercontent.com/EurydiceReverie/SSB_AUTOMATIONS_WD_TASK-04/main/Assets/My%20proj%20and%20posts.mp4)
+
 ## Contact 💬
 
 Project developed by (Karthik K) - [@EurydiceReverie][contact via telegram](https://t.me/SchadenfreudeKK)
